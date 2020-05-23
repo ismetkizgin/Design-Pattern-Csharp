@@ -1,0 +1,12 @@
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\EntityFramework.dll
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\EntityFramework.xml
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csprojAssemblyReference.cache
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\obj\Debug\BridgePattern.csproj.CopyComplete
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\ismet\Desktop\BridgePattern\BridgePattern\obj\Debug\BridgePattern.pdb
