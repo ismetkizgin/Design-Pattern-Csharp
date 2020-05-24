@@ -1,0 +1,7 @@
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\ismet\Desktop\Design-Pattern-Csharp\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
